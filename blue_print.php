@@ -17,4 +17,8 @@ echo "6.2 - Menginstall Post Man";
 echo "7. Merancang Integrasi dengan Aplikas Lannya";
 echo "8. Membuat Aplikasi Mobile Android";
 
+echo "--- Bug Fixing ----";
+echo "1. Bug Fixin Fitur 1";
+echo "2. Bug Fixing Fitur 2";
+echo "3. Bug Fixing Fitur 3";
 ?>
