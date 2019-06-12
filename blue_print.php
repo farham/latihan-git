@@ -14,5 +14,5 @@ echo "8. Membuat Aplikasi Mobile Android";
 
 echo "--- Bug Fixing ----";
 echo "1. Bug Fixin Fitur 1";
-
+echo "2. Bug Fixing Fitur 2";
 ?>
