@@ -12,6 +12,8 @@ echo "5. Merancang BackEnd Script";
 echo "5.1 - Membuat Kerangka Framework";
 echo "5.2 - Melakukan Configruasi Framework";
 echo "6. Membuat API";
+echo "6.1 - Membuat Library API";
+echo "6.2 - Menginstall Post Man";
 echo "7. Merancang Integrasi dengan Aplikas Lannya";
 echo "8. Membuat Aplikasi Mobile Android";
 
