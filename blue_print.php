@@ -12,4 +12,7 @@ echo "6. Membuat API";
 echo "7. Merancang Integrasi dengan Aplikas Lannya";
 echo "8. Membuat Aplikasi Mobile Android";
 
+echo "--- Bug Fixing ----";
+echo "1. Bug Fixin Fitur 1";
+
 ?>
